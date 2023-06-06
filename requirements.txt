@@ -1,6 +1,6 @@
+git+https://github.com/behave/behave
 async-generator==1.10
 attrs==23.1.0
-behave==1.2.7.dev3
 certifi==2023.5.7
 charset-normalizer==3.1.0
 chromedriver-autoinstaller==0.4.0
